@@ -32,7 +32,7 @@ body {
   }
   
   header .logo a {
-    background-image: url("mocobroliai-logo.png");
+    background-image: url("https://github.com/tomasnor/moco-broliai/blob/f91c07cba14b685c9bcf8c7e3d7621337f2e3041/mocobroliai-logo.png");
     background-size: 300px;
     background-repeat: no-repeat;
     display: inline-block;
