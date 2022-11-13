@@ -11,7 +11,7 @@ body {
   header {
     background-color: whitesmoke;
     /*  sorry for the strange urls, I had to upload them to google drive  */
-    background-image: url("/motorcycle-4044951_1920.jpg");
+    background-image: url("motorcycle-4044951_1920.jpg");
     background-size: cover;
     background-position: center;
     height: 500px;
@@ -32,7 +32,7 @@ body {
   }
   
   header .logo a {
-    background-image: url("/mocobroliai-logo.png");
+    background-image: url("mocobroliai-logo.png");
     background-size: 300px;
     background-repeat: no-repeat;
     display: inline-block;
